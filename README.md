@@ -103,14 +103,12 @@
 
 
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
-
-
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fodenbasem&theme=violet-dark" alt="GitHub Streak">
-  </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fodenbasem&bg_color=000000&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true">
 </p>
+
+
 
 
