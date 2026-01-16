@@ -183,7 +183,7 @@ I specialize in:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SilentN0va.png" alt="Your Image Badge" />
 
 
 ## ⚠️ Disclaimer
