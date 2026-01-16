@@ -183,6 +183,9 @@ I specialize in:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" style='border:none;'></iframe>
+
+
 ## ⚠️ Disclaimer
 All content and projects are intended for **educational and authorized security testing only**.  
 I do **not** support or encourage illegal activities.
