@@ -183,10 +183,15 @@ I specialize in:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🎓 TryHackMe 
-<a href="https://tryhackme.com/p/Fodenbasem">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" />
-</a>
+## 🎓 TryHackMe (SilentN0va)
+<p align="center">
+  <a href="https://tryhackme.com/p/SilentN0va">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" />
+  </a>
+</p>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SilentN0va-red?logo=tryhackme)](https://tryhackme.com/p/SilentN0va)
+
+
 
 ## ⚠️ Disclaimer
 All content and projects are intended for **educational and authorized security testing only**.  
