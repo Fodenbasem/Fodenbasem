@@ -186,7 +186,7 @@ I specialize in:
 ## 🎓 TryHackMe (SilentN0va)
 <p align="center">
   <a href="https://tryhackme.com/p/SilentN0va">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SilentN0va.png" alt="Your Image Badge" />
   </a>
 </p>
 
