@@ -186,10 +186,10 @@ I specialize in:
 ## 🎓 TryHackMe (SilentN0va)
 <p align="center">
   <a href="https://tryhackme.com/p/SilentN0va">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5707915" style='border:none;'></iframe>
   </a>
 </p>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-SilentN0va-red?logo=tryhackme)](https://tryhackme.com/p/SilentN0va)
+
 
 
 
